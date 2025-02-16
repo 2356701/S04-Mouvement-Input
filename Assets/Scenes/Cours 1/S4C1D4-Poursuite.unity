@@ -141,7 +141,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   poissonCible: {fileID: 1482795708}
-  vitesse: 0.5
+  vitesse: 5000
 --- !u!1 &330585543
 GameObject:
   m_ObjectHideFlags: 0
@@ -584,6 +584,21 @@ PrefabInstance:
         type: 3}
       propertyPath: m_TagString
       value: Poisson
+      objectReference: {fileID: 0}
+    - target: {fileID: 5507280331744382711, guid: 741dc339d3f1f1547a6caa4ddec62683,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5507280331744382711, guid: 741dc339d3f1f1547a6caa4ddec62683,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1.07
+      objectReference: {fileID: 0}
+    - target: {fileID: 5507280331744382711, guid: 741dc339d3f1f1547a6caa4ddec62683,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 4.04
       objectReference: {fileID: 0}
     - target: {fileID: 7359618328597075946, guid: 741dc339d3f1f1547a6caa4ddec62683,
         type: 3}
