@@ -61,7 +61,7 @@
                 {
                     "name": "",
                     "id": "8ee43539-df08-4d12-a06f-297dd1c344ef",
-                    "path": "<Keyboard>/rightArrow",
+                    "path": "<Keyboard>/upArrow",
                     "interactions": "Press(behavior=1)",
                     "processors": "",
                     "groups": "Keyboard",
